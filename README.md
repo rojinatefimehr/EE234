@@ -1,2 +1,2 @@
-# EE234
-EE234 (Microprocessors)-Fall2023
+# EE234 (Assembly)
+EE234 (Microprocessors)-WSU-Fall2023
