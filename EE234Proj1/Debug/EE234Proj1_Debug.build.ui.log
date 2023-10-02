@@ -1,0 +1,10 @@
+2023-09-28T13:50:16.009272200255-13:50:16 **** Build of configuration Debug for project EE234Proj1 ****
+000-make all 
+000-make --no-print-directory pre-build
+000-a9-linaro-pre-build-step
+000-' '
+000-make --no-print-directory main-build
+000-make[1]: Nothing to be done for 'main-build'.
+00255-
+13:50:16 Build Finished (took 252ms)
+
