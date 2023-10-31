@@ -1,0 +1,10 @@
+2023-10-30T19:50:27.945437300255-19:50:27 **** Incremental Build of configuration Debug for project EE234_part1_proj2 ****
+000-make all 
+000-make --no-print-directory pre-build
+000-a9-linaro-pre-build-step
+000-' '
+000-make --no-print-directory main-build
+000-make[1]: Nothing to be done for 'main-build'.
+00255-
+19:50:28 Build Finished (took 271ms)
+
